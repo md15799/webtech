@@ -1,6 +1,6 @@
 # webtech
 
-> A web application to calculate the environmental impact of products from manufacture to disposal.
+> A web application to calculate the environmental impact of products from manufacture to disposal. Built with Nuxt and Vue.js .
 
 ## Build Setup
 
