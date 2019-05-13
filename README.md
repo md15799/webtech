@@ -1,6 +1,6 @@
 # webtech
 
-> Nuxt.js project
+> A web application to calculate the environmental impact of products from manufacture to disposal.
 
 ## Build Setup
 
